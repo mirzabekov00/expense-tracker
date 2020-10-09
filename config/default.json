@@ -1,5 +1,5 @@
 {
   "PORT": 5000,
-  "mongoUri": "",
+  "mongoUri": "mongodb+srv://eldar:eldar77eldar@transactions.knqqp.azure.mongodb.net/expence-transactions?retryWrites=true&w=majority",
   "NODE_ENV": "development"
 }
